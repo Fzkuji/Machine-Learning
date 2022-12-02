@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "89770d9a1fa3315e",
+    "type": "split",
+    "children": [
+      {
+        "id": "13631ac1189f058b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3b51a58d2d1e0db",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbdae2f2a19c0404",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5cd68b07bccb009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9a2db56d8b66ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fbc9d00ca5ed818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975c826379b382ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "873f85c177460224",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a47972273ecea86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6388f271808bd533",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c562e4393025eff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "801e23be9e769c07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12dea5480944d1e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da9a2db56d8b66ff",
+  "lastOpenFiles": [
+    "+强化学习/未命名看板.md",
+    "+无监督学习/From GAN to WGAN.md",
+    "未命名.md",
+    "几何级数.png",
+    "目标逻辑.md",
+    "+Survey vs Review.md",
+    "持续学习/持续学习笔记.md",
+    "计算机视觉/目标检测/论文笔记/CLIP.md",
+    "计算机视觉/目标检测/论文笔记/Visual N-Gram.md",
+    "++论文笔记/+Paper Template.md"
+  ]
+}
