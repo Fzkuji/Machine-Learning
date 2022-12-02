@@ -11,17 +11,21 @@
             "id": "704f9bad0ebd2b1c",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-obsidian-forum",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "fbecce94040f485f",
+            "id": "f9572c4321ccdf29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "Obsidian - Embed A Website With Iframe.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "Obsidian - Embed A Website With Iframe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "Obsidian - Embed A Website With Iframe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md"
+                "file": "Obsidian - Embed A Website With Iframe.md"
               }
             }
           }
@@ -145,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbecce94040f485f",
+  "active": "f9572c4321ccdf29",
   "lastOpenFiles": [
+    "README.md",
+    "几何级数.png",
+    "Untitled Kanban.md",
+    "+无监督学习/From GAN to WGAN.md",
+    "Pasted image 20221128111026.png",
     "+强化学习/9. Model-Based Reinforcement Learning.md",
     "ICML Tutorial on Model-Based Methods in Reinforcement Learning.pptx.md",
     "+强化学习/5. Verbal Question.md",
     "+强化学习/6. 蒙特卡洛梯度估计.md",
-    "+强化学习/7. 强化学习资料.md",
-    "+强化学习/8. 分层强化学习.md",
-    "+强化学习/2. 资料.md",
-    "+强化学习/1. 强化学习综述.md",
-    "+强化学习/资源/playster-hq-plan.jpg",
-    "+强化学习/资源/staff distribution matrix.png"
+    "+强化学习/7. 强化学习资料.md"
   ]
 }
