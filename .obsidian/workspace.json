@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "+无监督学习/From GAN to WGAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md"
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md"
               }
             }
           }
@@ -149,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9572c4321ccdf29",
+  "active": "704f9bad0ebd2b1c",
   "lastOpenFiles": [
+    "+无监督学习/From GAN to WGAN.md",
+    "+强化学习/9. Model-Based Reinforcement Learning.md",
+    "Obsidian - Embed A Website With Iframe.md",
+    "Pasted image 20221128111026.png",
+    "Untitled Kanban.md",
     "README.md",
     "几何级数.png",
-    "Untitled Kanban.md",
-    "+无监督学习/From GAN to WGAN.md",
-    "Pasted image 20221128111026.png",
-    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "ICML Tutorial on Model-Based Methods in Reinforcement Learning.pptx.md",
     "+强化学习/5. Verbal Question.md",
-    "+强化学习/6. 蒙特卡洛梯度估计.md",
-    "+强化学习/7. 强化学习资料.md"
+    "+强化学习/6. 蒙特卡洛梯度估计.md"
   ]
 }
