@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "13631ac1189f058b",
+        "id": "2b5a14f666ed11d1",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b51a58d2d1e0db",
+            "id": "704f9bad0ebd2b1c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "custom-frames-obsidian-forum",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbecce94040f485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "right": {
     "id": "873f85c177460224",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "+强化学习/9. Model-Based Reinforcement Learning.md"
               }
             }
           }
@@ -134,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da9a2db56d8b66ff",
+  "active": "fbecce94040f485f",
   "lastOpenFiles": [
-    "+强化学习/未命名看板.md",
-    "+无监督学习/From GAN to WGAN.md",
-    "未命名.md",
-    "几何级数.png",
-    "目标逻辑.md",
-    "+Survey vs Review.md",
-    "持续学习/持续学习笔记.md",
-    "计算机视觉/目标检测/论文笔记/CLIP.md",
-    "计算机视觉/目标检测/论文笔记/Visual N-Gram.md",
-    "++论文笔记/+Paper Template.md"
+    "+强化学习/9. Model-Based Reinforcement Learning.md",
+    "ICML Tutorial on Model-Based Methods in Reinforcement Learning.pptx.md",
+    "+强化学习/5. Verbal Question.md",
+    "+强化学习/6. 蒙特卡洛梯度估计.md",
+    "+强化学习/7. 强化学习资料.md",
+    "+强化学习/8. 分层强化学习.md",
+    "+强化学习/2. 资料.md",
+    "+强化学习/1. 强化学习综述.md",
+    "+强化学习/资源/playster-hq-plan.jpg",
+    "+强化学习/资源/staff distribution matrix.png"
   ]
 }
