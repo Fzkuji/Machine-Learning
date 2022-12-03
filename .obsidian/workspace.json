@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73ce0fdb87a1b88d",
+        "id": "b28b00e593cf987f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac3df586faec05e",
+            "id": "27757c3d86451c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
-                "mode": "preview",
+                "file": "+无监督学习/What are Diffusion Models.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "file": "+无监督学习/What are Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "file": "+无监督学习/What are Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md"
+                "file": "+无监督学习/What are Diffusion Models.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ac3df586faec05e",
+  "active": "27757c3d86451c6a",
   "lastOpenFiles": [
-    "+无监督学习/From GAN to WGAN.md",
+    "+无监督学习/What are Diffusion Models.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
-    "+强化学习/9. Model-Based Reinforcement Learning.md",
-    "Obsidian - Embed A Website With Iframe.md",
+    "目标逻辑.md",
     "Pasted image 20221128111026.png",
+    "Obsidian - Embed A Website With Iframe.md",
+    "+无监督学习/From GAN to WGAN.md",
+    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "README.md",
     "Untitled Kanban.md",
-    "几何级数.png",
-    "ICML Tutorial on Model-Based Methods in Reinforcement Learning.pptx.md",
-    "+强化学习/5. Verbal Question.md"
+    "几何级数.png"
   ]
 }
