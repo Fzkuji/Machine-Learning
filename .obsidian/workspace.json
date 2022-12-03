@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "+无监督学习/From GAN to WGAN.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "173af3c1ccf705fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/From GAN to WGAN.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/From GAN to WGAN.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/From GAN to WGAN.md"
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md"
               }
             }
           }
@@ -148,14 +161,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "704f9bad0ebd2b1c",
+  "active": "173af3c1ccf705fc",
   "lastOpenFiles": [
-    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "Obsidian - Embed A Website With Iframe.md",
+    "+无监督学习/From GAN to WGAN.md",
+    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "Pasted image 20221128111026.png",
     "README.md",
     "Untitled Kanban.md",
-    "+无监督学习/From GAN to WGAN.md",
     "几何级数.png",
     "ICML Tutorial on Model-Based Methods in Reinforcement Learning.pptx.md",
     "+强化学习/5. Verbal Question.md",
