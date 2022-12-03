@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+强化学习/9. Model-Based Reinforcement Learning.md"
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md"
               }
             }
           }
@@ -139,9 +139,9 @@
   "active": "3ac3df586faec05e",
   "lastOpenFiles": [
     "+无监督学习/From GAN to WGAN.md",
+    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "Obsidian - Embed A Website With Iframe.md",
-    "+强化学习/9. Model-Based Reinforcement Learning.md",
     "Pasted image 20221128111026.png",
     "README.md",
     "Untitled Kanban.md",
