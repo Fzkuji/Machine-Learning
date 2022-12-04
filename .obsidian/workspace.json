@@ -11,8 +11,12 @@
             "id": "e3a73b24843ae42f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "多任务学习/多任务学习大合集.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "file": "多任务学习/多任务学习大合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "file": "多任务学习/多任务学习大合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/From Autoencoder to Beta-VAE.md"
+                "file": "多任务学习/多任务学习大合集.md"
               }
             }
           }
@@ -132,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da9a2db56d8b66ff",
+  "active": "e3a73b24843ae42f",
   "lastOpenFiles": [
+    "Obsidian - Embed A Website With Iframe.md",
+    "Pasted image 20221128111026.png",
+    "几何级数.png",
+    "目标逻辑.md",
+    "多任务学习/多任务学习大合集.md",
     "+无监督学习/What are Diffusion Models.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "+无监督学习/From GAN to WGAN.md",
-    "目标逻辑.md",
-    "Pasted image 20221128111026.png",
-    "Obsidian - Embed A Website With Iframe.md",
     "+强化学习/9. Model-Based Reinforcement Learning.md",
-    "README.md",
-    "Untitled Kanban.md",
-    "几何级数.png"
+    "README.md"
   ]
 }
