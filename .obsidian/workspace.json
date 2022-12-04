@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddc5c81f05e934c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "+无监督学习/What are Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b1bfb79e9e90277",
+            "type": "leaf",
+            "state": {
+              "type": "web-browser-view",
+              "state": {
+                "url": "https://www.jianshu.com/p/94d68a03c13e"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3a73b24843ae42f",
+  "active": "ddc5c81f05e934c6",
   "lastOpenFiles": [
+    "+无监督学习/From Autoencoder to Beta-VAE.md",
     "+无监督学习/What are Diffusion Models.md",
     "持续学习/持续学习笔记.md",
     "多任务学习/多任务学习大合集.md",
@@ -145,7 +169,6 @@
     "Pasted image 20221128111026.png",
     "几何级数.png",
     "目标逻辑.md",
-    "+无监督学习/From Autoencoder to Beta-VAE.md",
     "+无监督学习/From GAN to WGAN.md",
     "+强化学习/9. Model-Based Reinforcement Learning.md"
   ]
