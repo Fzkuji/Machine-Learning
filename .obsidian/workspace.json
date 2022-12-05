@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ec2776b5d84572",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "持续学习/持续学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "持续学习/持续学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "持续学习/持续学习笔记.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c576a6ab93a25ae0",
+  "active": "41ec2776b5d84572",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "计算机视觉/目标检测/论文笔记/资源/Visual N-Gram.png",
+    "计算机视觉/目标检测/论文笔记/Visual N-Gram.md",
+    "计算机视觉/目标检测/论文笔记/CLIP.md",
     "多任务学习/多任务学习大合集.md",
-    "+无监督学习/What are Diffusion Models.md",
-    "+无监督学习/From Autoencoder to Beta-VAE.md",
     "持续学习/持续学习笔记.md",
-    "Obsidian - Embed A Website With Iframe.md",
-    "Pasted image 20221128111026.png",
-    "几何级数.png",
-    "目标逻辑.md",
+    "+无监督学习/What are Diffusion Models.md",
     "+无监督学习/From GAN to WGAN.md",
-    "+强化学习/9. Model-Based Reinforcement Learning.md"
+    "+无监督学习/From Autoencoder to Beta-VAE.md",
+    "+强化学习/7. 强化学习资料.md"
   ]
 }
