@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md",
+                "file": "持续学习/持续学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md",
+                "file": "持续学习/持续学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md",
+                "file": "持续学习/持续学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md"
+                "file": "持续学习/持续学习笔记.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "c576a6ab93a25ae0",
   "lastOpenFiles": [
+    "多任务学习/多任务学习大合集.md",
     "+无监督学习/What are Diffusion Models.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "持续学习/持续学习笔记.md",
-    "多任务学习/多任务学习大合集.md",
     "Obsidian - Embed A Website With Iframe.md",
     "Pasted image 20221128111026.png",
     "几何级数.png",
