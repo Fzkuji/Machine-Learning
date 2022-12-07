@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md"
+                "file": "+无监督学习/From Autoencoder to Beta-VAE.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "41ec2776b5d84572",
   "lastOpenFiles": [
-    "+无监督学习/From GAN to WGAN.md",
     "+无监督学习/What are Diffusion Models.md",
+    "+无监督学习/From GAN to WGAN.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "代码规范.md",
     "Untitled Kanban.md",
