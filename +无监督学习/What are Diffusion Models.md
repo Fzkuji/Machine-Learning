@@ -6,4 +6,4 @@
 		padding = 0 0 
 		margins = 0 0
 		src="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"></iframe>
-		
+## [更数学的讲解](https://www.bilibili.com/video/BV1b541197HX/)
