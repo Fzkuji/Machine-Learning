@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "多任务学习/多任务学习大合集.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "多任务学习/多任务学习大合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "多任务学习/多任务学习大合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md"
+                "file": "多任务学习/多任务学习大合集.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "bdbe5dfb964c701f",
   "lastOpenFiles": [
-    "+无监督学习/Importance Sampling.md",
     "+无监督学习/What are Diffusion Models.md",
+    "+无监督学习/Importance Sampling.md",
     "+无监督学习/From GAN to WGAN.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "Obsidian - Embed A Website With Iframe.md",
