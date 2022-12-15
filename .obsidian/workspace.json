@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6ed97a639dc66a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机视觉/3D Object Detection/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md",
+                "file": "计算机视觉/3D Object Detection/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md",
+                "file": "计算机视觉/3D Object Detection/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "多任务学习/多任务学习大合集.md"
+                "file": "计算机视觉/3D Object Detection/Overview.md"
               }
             }
           }
@@ -161,8 +173,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdbe5dfb964c701f",
+  "active": "c6ed97a639dc66a7",
   "lastOpenFiles": [
+    "多任务学习/多任务学习大合集.md",
     "+无监督学习/What are Diffusion Models.md",
     "+无监督学习/Importance Sampling.md",
     "+无监督学习/From GAN to WGAN.md",
@@ -171,7 +184,6 @@
     "代码规范.md",
     "Untitled Kanban.md",
     "计算机视觉/目标检测/论文笔记/资源/Visual N-Gram.png",
-    "计算机视觉/目标检测/论文笔记/Visual N-Gram.md",
-    "计算机视觉/目标检测/论文笔记/CLIP.md"
+    "计算机视觉/目标检测/论文笔记/Visual N-Gram.md"
   ]
 }
