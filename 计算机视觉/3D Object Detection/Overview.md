@@ -23,10 +23,10 @@ Stereo methods and flow methods are both techniques used in computer vision for 
 In general, stereo methods are more accurate and can provide higher-resolution 3D reconstructions, but they require specialized hardware and can be computationally intensive. Flow methods are less accurate but are simpler to implement and can be used with a single camera.
 
 ### Datasets Overview
-| Datasets                                       | Stereo | Optical Flow | Scene Flow | Depth | Obj. Det. | Tracking | Semantic |
-| ---------------------------------------------- | ------ | ------------ | ---------- | ----- | --------- | -------- | -------- |
-| [KITTI](http://www.cvlibs.net/datasets/kitti/) | ✔      | ✔            | ✔          | ✔     | ✔         | ✔        | ✔        |
-|                                                |        |              |            |       |           |          |          |
+| Datasets                                       | Stereo | Optical Flow | Scene Flow | Odometry | Depth | Obj. Det. | Tracking | Semantic |
+| ---------------------------------------------- | ------ | ------------ | ---------- | --------------- | ----- | --------- | -------- | -------- |
+| [KITTI](http://www.cvlibs.net/datasets/kitti/) | ✔      | ✔            | ✔          | ✔               | ✔     | ✔         | ✔        | ✔        | 
+|                                                |        |              |            |                 |       |           |          |          |
 
 
 
