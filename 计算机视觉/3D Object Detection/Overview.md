@@ -1,4 +1,4 @@
-## Datasets
+## [Datasets](https://paperswithcode.com/datasets?task=3d-object-detection)
 
 ### Background Knowledge
 
@@ -28,7 +28,21 @@ In general, stereo methods are more accurate and can provide higher-resolution 3
 | [KITTI](http://www.cvlibs.net/datasets/kitti/) | ✔      | ✔            | ✔          | ✔               | ✔     | ✔         | ✔        | ✔        | 
 |                                                |        |              |            |                 |       |           |          |          |
 
+一个简单的对比：[The Robust Vision Challenge 2022](http://www.robustvision.net/)
 
 
 ### [The KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti)
 
+[Papers With Code上的介绍](https://paperswithcode.com/dataset/kitti)
+
+
+
+笔记，我认为，人类首先识别一个物体的类别，然后再去分析这个物体的形态和方向，最后判断物体空间中的位置。
+
+人必须要有一个物体特征的先验认知（大小，形状，颜色，材质）才能识别目标场景的具体情况。而先验特征肯定需要从3D场景中学习得到（即物体的特征表示）。通过将特征表示与待测图像进行比对，判断场景中是否有该物体。
+
+在确定场景中存在一个物体之后，模型需要继续通过先验来确定该物体的空间位置，比如远近，大小等等信息，最终得到整个场景的所有分析。
+
+而这理论上可以通过单目图像来解决。
+
+双目图像理论上可以彻底分析出整个空间的位置信息，类似于人眼。
