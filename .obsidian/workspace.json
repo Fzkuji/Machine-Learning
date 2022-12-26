@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e2b782acb2d12a",
+        "id": "3d7da6da61091823",
         "type": "tabs",
         "children": [
           {
-            "id": "c576a6ab93a25ae0",
+            "id": "771bbff3c7e0fd42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "持续学习/持续学习笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41ec2776b5d84572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdbe5dfb964c701f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "多任务学习/多任务学习大合集.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6ed97a639dc66a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21a97714392fb4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+无监督学习/Diffusion文章整理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fa4484ced7b50b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机视觉/光线追踪/Ray Tracing in One Weekend.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -197,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fa4484ced7b50b5",
+  "active": "771bbff3c7e0fd42",
   "lastOpenFiles": [
-    "Obsidian - Embed A Website With Iframe.md",
-    "+Survey vs Review.md",
-    "README.md",
+    "计算机视觉/光线追踪/Ray Tracing The Rest of Your Life.md",
+    "计算机视觉/光线追踪/Ray Tracing The Next Week.md",
     "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
     "+无监督学习/Diffusion文章整理.md",
-    "目标逻辑.md",
     "代码规范.md",
-    "计算机视觉/3D Object Detection/Overview.md",
     "多任务学习/多任务学习大合集.md",
-    "+无监督学习/What are Diffusion Models.md"
+    "+无监督学习/What are Diffusion Models.md",
+    "Obsidian - Embed A Website With Iframe.md",
+    "+Survey vs Review.md",
+    "README.md"
   ]
 }
