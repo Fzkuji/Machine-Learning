@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8535758e49e50d0e",
+        "id": "2a686e5abba20834",
         "type": "tabs",
         "children": [
           {
-            "id": "11da20f827849ad0",
+            "id": "89a257e1b0c1bb8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b87efacf432f5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "变分法/变分法学习记录.md",
+                "file": "+无监督学习/What are Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "变分法/变分法学习记录.md",
+                "file": "+无监督学习/What are Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "变分法/变分法学习记录.md",
+                "file": "+无监督学习/What are Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "变分法/变分法学习记录.md"
+                "file": "+无监督学习/What are Diffusion Models.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b87efacf432f5c5",
+  "active": "89a257e1b0c1bb8c",
   "lastOpenFiles": [
+    "+无监督学习/From GAN to WGAN.md",
+    "+无监督学习/From Autoencoder to Beta-VAE.md",
+    "+无监督学习/Diffusion文章整理.md",
     "Obsidian - Embed A Website With Iframe.md",
+    "变分法/变分法学习记录.md",
     "计算机视觉/光线追踪/Ray Tracing The Rest of Your Life.md",
     "计算机视觉/光线追踪/Ray Tracing The Next Week.md",
     "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
-    "+无监督学习/Diffusion文章整理.md",
     "代码规范.md",
-    "多任务学习/多任务学习大合集.md",
-    "+无监督学习/What are Diffusion Models.md",
-    "+Survey vs Review.md",
-    "README.md"
+    "多任务学习/多任务学习大合集.md"
   ]
 }
