@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/Importance Sampling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43c5d6125a1c2102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md",
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/What are Diffusion Models.md"
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a257e1b0c1bb8c",
+  "active": "43c5d6125a1c2102",
   "lastOpenFiles": [
-    "+无监督学习/From GAN to WGAN.md",
+    "+无监督学习/Importance Sampling.md",
+    "+无监督学习/Diffusion Models/What are Diffusion Models.md",
+    "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
-    "+无监督学习/Diffusion文章整理.md",
+    "+无监督学习/From GAN to WGAN.md",
     "Obsidian - Embed A Website With Iframe.md",
     "变分法/变分法学习记录.md",
     "计算机视觉/光线追踪/Ray Tracing The Rest of Your Life.md",
     "计算机视觉/光线追踪/Ray Tracing The Next Week.md",
-    "计算机视觉/光线追踪/Ray Tracing in One Weekend.md",
-    "代码规范.md",
-    "多任务学习/多任务学习大合集.md"
+    "计算机视觉/光线追踪/Ray Tracing in One Weekend.md"
   ]
 }
