@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/Diffusion Models/What are Diffusion Models.md",
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/Diffusion Models/What are Diffusion Models.md",
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/Diffusion Models/What are Diffusion Models.md",
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/Diffusion Models/What are Diffusion Models.md"
+                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "77bc9914ee9480ba",
   "lastOpenFiles": [
-    "+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "+无监督学习/Diffusion Models/Diffusion文章整理.md",
-    "+无监督学习/Importance Sampling.md",
+    "+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "+无监督学习/Diffusion Models/What are Diffusion Models.md",
+    "+无监督学习/Importance Sampling.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "+无监督学习/From GAN to WGAN.md",
     "Obsidian - Embed A Website With Iframe.md",
