@@ -13,3 +13,7 @@ p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) \approx&\, p(\boldsymbol{x}_{t-1}|\bold
  - 如果使$\sigma_t^2=0$，那么模型就变成了DDIM
  - 如果使$\sigma_t = \frac{\bar{\beta}_{t-1}\beta_t}{\bar{\beta}_t}$，那么模型就是DDPM
 
+### [DPM-solver](https://www.bilibili.com/video/BV1B24y1Q7wZ/)
+
+**这个还没看，有空看**
+
