@@ -4,9 +4,16 @@
 ### 通过CT诊断肺炎
 
 纽约西奈山的研究人员[建立了一个人工智能系统](https://www.nature.com/articles/s41591-020-0931-3.pdf)，该系统可以使用一种算法来帮助诊断 COVID-19 患者，该算法经过 900 多次中国患者肺部计算机断层扫描 (CT) 扫描的训练。仅根据肺部扫描诊断疾病不一定准确，因为在疾病的早期阶段扫描可能看起来正常，而由 COVID-19 引起的肺部问题可能与其他疾病相似。当然，这就是 SARS-CoV-2 抗原快速诊断测试和 PCR 测试等 COVID-19 诊断测试如此有用的原因，也是临床医生采访患者并进行身体检查以汇总一系列信息以做出诊断的原因。
+
 ### 通过咳嗽诊断感染
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来
+
+### 预测长期新冠症状
+
+研究表明，感染 SARS-CoV-2（导致 COVID-19 的病毒）后的恢复情况因人而异。大多数患者似乎都能迅速而完全地从 COVID-19 中康复。然而，其他人报告说经历了持续数周或数月的 COVID-19 症状，或者在感染数周后出现新症状。这些长期影响被称为 SARS-CoV-2 (PASC) 的急性后遗症，或者更常见的是[Long COVID](https://covid19.nih.gov/covid-19-topics/long-covid)。
+
+为了更好地了解哪些患者会发展为 Long COVID，NIH 诊断快速加速 (RADx) 计划发起了[NIH Long COVID 计算挑战 (L3C)](https://www.challenge.gov/?challenge=l3c&tab=overview)。作为 RADx-Radical 计划的一部分，该挑战旨在支持使用人工智能和机器学习工具来识别 COVID-19 患者的研究，这些患者具有发展为 Long COVID 的高风险。
 
 ## 研发药物
 
