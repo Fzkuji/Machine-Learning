@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d92da49bf7c6dd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Covid 19/机器学习的Covid 19应用汇总.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
+                "file": "Covid 19/机器学习的Covid 19应用汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
+                "file": "Covid 19/机器学习的Covid 19应用汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md"
+                "file": "Covid 19/机器学习的Covid 19应用汇总.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77bc9914ee9480ba",
+  "active": "d92da49bf7c6dd64",
   "lastOpenFiles": [
-    "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/Diffusion Models/Diffusion漫谈.md",
+    "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/Diffusion Models/What are Diffusion Models.md",
     "+无监督学习/Importance Sampling.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
