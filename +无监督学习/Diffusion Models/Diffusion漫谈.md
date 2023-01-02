@@ -17,3 +17,6 @@ p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) \approx&\, p(\boldsymbol{x}_{t-1}|\bold
 
 **这个还没看，有空看**
 
+## 研究提案
+
+Diffusion model是
