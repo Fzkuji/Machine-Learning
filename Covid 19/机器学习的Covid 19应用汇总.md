@@ -9,11 +9,13 @@
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来
 
-### 预测长期新冠症状
+### [Predicting Long COVID](https://covid19.nih.gov/news-and-stories/predicting-long-covid-artificial-intelligence)
 
-研究表明，感染 SARS-CoV-2（导致 COVID-19 的病毒）后的恢复情况因人而异。大多数患者似乎都能迅速而完全地从 COVID-19 中康复。然而，其他人报告说经历了持续数周或数月的 COVID-19 症状，或者在感染数周后出现新症状。这些长期影响被称为 SARS-CoV-2 (PASC) 的急性后遗症，或者更常见的是[Long COVID](https://covid19.nih.gov/covid-19-topics/long-covid)。
+Studies have shown that recovery from infection with SARS-CoV-2, the virus that causes COVID-19, can vary from person to person. Most patients seem to recover from COVID-19 quickly and completely. However, others report experiencing COVID-19 symptoms that last for weeks or months or developing new symptoms weeks after infection. These long-term effects are called post-acute sequelae of SARS-CoV-2 (PASC) or, more commonly, [Long COVID](https://covid19.nih.gov/covid-19-topics/long-covid).
 
-为了更好地了解哪些患者会发展为 Long COVID，NIH 诊断快速加速 (RADx) 计划发起了[NIH Long COVID 计算挑战 (L3C)](https://www.challenge.gov/?challenge=l3c&tab=overview)。作为 RADx-Radical 计划的一部分，该挑战旨在支持使用人工智能和机器学习工具来识别 COVID-19 患者的研究，这些患者具有发展为 Long COVID 的高风险。
+To better understand which patients develop Long COVID, the NIH Rapid Acceleration of Diagnostics (RADx) initiative has launched the [NIH Long COVID Computational Challenge (L3C)](https://www.challenge.gov/?challenge=l3c&tab=overview). Part of the RADx-Radical program, the challenge aims to support research that uses artificial intelligence and machine learning tools to identify COVID-19 patients with a high risk of developing Long COVID.
+
+
 
 ## 研发药物
 
