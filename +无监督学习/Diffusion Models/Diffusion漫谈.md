@@ -19,4 +19,4 @@ p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) \approx&\, p(\boldsymbol{x}_{t-1}|\bold
 
 ## 研究提案
 
-Diffusion model是
+Diffusion model是一个最近流行的机器学习模型，其目前广泛应用于图像生成、去噪、超分辨率等领域并取得了优异的效果。
