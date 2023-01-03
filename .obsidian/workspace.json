@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6db0c03c1790248a",
+        "id": "480056a45a46b438",
         "type": "tabs",
         "children": [
           {
-            "id": "a956c95f433d1366",
+            "id": "467bd5d5fdf0c53c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a956c95f433d1366",
+  "active": "467bd5d5fdf0c53c",
   "lastOpenFiles": [
     "Covid 19/Significant Applications of Machine Learning for COVID-19 Pandemic.pdf",
     "Covid 19/机器学习的Covid 19应用汇总.md",
+    "Significant.md",
     "变分法/变分法学习记录.md",
     "Obsidian - Embed A Website With Iframe.md",
     "Home Index/today.md",
     "+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/Diffusion Models/What are Diffusion Models.md",
-    "+无监督学习/Importance Sampling.md",
-    "+无监督学习/From Autoencoder to Beta-VAE.md"
+    "+无监督学习/Importance Sampling.md"
   ]
 }

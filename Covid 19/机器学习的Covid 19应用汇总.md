@@ -122,8 +122,9 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 
 
 ## References
-[]()
-![[Significant Applications of Machine Learning for COVID-19 Pandemic.pdf]]
+
+ - [综述Significant Applications of Machine Learning for COVID-19 Pandemic](obsidian://open?vault=Machine%20Learning&file=Covid%2019%2FSignificant%20Applications%20of%20Machine%20Learning%20for%20COVID-19%20Pandemic.pdf)
+ - 
 
 
 [^1]: Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." _The lancet_ 395.10223 (2020): 514-523.
