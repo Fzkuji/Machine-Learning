@@ -1,40 +1,41 @@
 
-# For Indivisuals
+## For Indivisuals
 
-## Before Infection
-
-
-## After infection
+### Before Infection
 
 
 
+### After Infection
 
-
-
-
-## 医疗诊断
-
-### 通过CT诊断肺炎
+#### 通过CT诊断肺炎
 
 纽约西奈山的研究人员[建立了一个人工智能系统](https://www.nature.com/articles/s41591-020-0931-3.pdf)，该系统可以使用一种算法来帮助诊断 COVID-19 患者，该算法经过 900 多次中国患者肺部计算机断层扫描 (CT) 扫描的训练。仅根据肺部扫描诊断疾病不一定准确，因为在疾病的早期阶段扫描可能看起来正常，而由 COVID-19 引起的肺部问题可能与其他疾病相似。当然，这就是 SARS-CoV-2 抗原快速诊断测试和 PCR 测试等 COVID-19 诊断测试如此有用的原因，也是临床医生采访患者并进行身体检查以汇总一系列信息以做出诊断的原因。
 
-### 通过咳嗽诊断感染
+#### 通过咳嗽诊断感染
 
-[麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来
+[麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来。
 
-### Long COVID Study
+### After Turning Negative
 
-#### [Predicting Long COVID](https://covid19.nih.gov/news-and-stories/predicting-long-covid-artificial-intelligence)
+#### Long COVID Study
+
+##### [Predicting Long COVID](https://covid19.nih.gov/news-and-stories/predicting-long-covid-artificial-intelligence)
 
 Studies have shown that recovery from infection with SARS-CoV-2, the virus that causes COVID-19, can vary from person to person. Most patients seem to recover from COVID-19 quickly and completely. However, others report experiencing COVID-19 symptoms that last for weeks or months or developing new symptoms weeks after infection. These long-term effects are called post-acute sequelae of SARS-CoV-2 (PASC) or, more commonly, [Long COVID](https://covid19.nih.gov/covid-19-topics/long-covid).
 
 To better understand which patients develop Long COVID, the NIH Rapid Acceleration of Diagnostics (RADx) initiative has launched the [NIH Long COVID Computational Challenge (L3C)](https://www.challenge.gov/?challenge=l3c&tab=overview). Part of the RADx-Radical program, the challenge aims to support research that uses artificial intelligence and machine learning tools to identify COVID-19 patients with a high risk of developing Long COVID.
 
-#### Long COVID with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/)
+##### Long COVID with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/)
 
 We studied brain tissue from patients who had died from COVID-19 at home. COVID-19 came on so fast, they died suddenly. They didn’t go to the hospital. They didn’t spend time in ICU. When we looked at the lungs and other organs, we saw only a little damage — not enough to cause secondary damage to the brain. We knew that damage we saw in the brain was directly related to the infection.
 
 When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instead, we found the brains had [extensive injury to the blood vessels](https://www.nih.gov/news-events/news-releases/nih-study-uncovers-blood-vessel-damage-inflammation-covid-19-patients-brains-no-infection). We saw inflammatory cells — a kind of immune cell — around the blood vessels in the brain. Since these patients were functional until the time of death, we reasoned that if they had survived, they may have developed long-term neurological symptoms. It’s possible that long COVID might be similar.
+
+
+
+
+
+
 
 ## 研发药物
 
