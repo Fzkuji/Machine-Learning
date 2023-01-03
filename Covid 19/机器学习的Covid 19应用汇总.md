@@ -78,7 +78,23 @@ When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instea
 
 #### Patient screening
 
+It is essential to gather accurate test data using cheaper test methods, which helps screen patients suffering from the existing pandemic (Schmit, 2020).
 
+Machine learning can help to screen COVID-19 pandemic patients by using artificial neural networks (L. Li et al., 2020).
+
+Machine learning is also used to identify the tell-tale patterns in a patient's resting heart rate, predict drug-target interactions between the virus's proteins and existing drugs, and generate or build biomedical knowledge graphs. A deep learning algorithm using chest CT or X-ray images to screen COVID-19 patients is used (Butt et al., 2020; Ozturk et al., 2020). A deep learning and transfer learning-based model COVID-Net is used for COVID-19 detection in patients (Apostolopoulos & Mpesiana, 2020; L. Wang & Wong, 2020). A deep learning model called DarkCovidNet was proposed to detect COVID-19 (Ozturk et al., 2020).
+
+#### Drug discovery
+
+##### 筛选化合物
+
+为人工智能系统提供了一个庞大的肽分子数据库，系统对其进行分析以了解分子结构与其功能或特性之间的联系。然后，他们将新分子的理想特性列表插入其中，例如特定的抗菌功能和低毒性。研究人员说，该系统现在也可以用于寻找抗 COVID-19 分子。如果进一步的实验室、动物试验和最终的人体临床试验证实了它们的有效性，这种筛选可以帮助确定最终可能对人类有用的化合物。
+
+##### 学习重用现有药物
+
+寻找[可以重新](https://www.nature.com/articles/s41467-021-21056-z)用于治疗 COVID-19 的现有药物。由于老年人患重病和死亡的风险更高，他们假设病毒在老年人中引发的基因表达与年轻人不同，因此确定需要哪些药物来影响感染引发的特定基因和蛋白质。研究人员发现 RIPK1 蛋白是 COVID-19 药物的一个有前途的靶标，并确定了三种作用于_RIPK1_基因表达的获批药物。如果进一步测试证实这些药物对人类对抗 COVID-19 有效，则这些药物可能对对抗 COVID-19 有用。
+
+Build Biomedical Knowledge Graphs
 
 ### COVID-19 pandemic
 
@@ -90,21 +106,11 @@ The secondary aim is to identify the most susceptible people based on personalis
 
 The tertiary aim is to analyse personalised therapeutic effects to evaluate new COVID-19 patients. This enhancement in the hospitals will increase the better care of each patient and also improve the local hospital arrangement. It is found that with the precise treatment monitoring based on the new “liquid” detection technologies, patients can be identified quickly with increasing affordability (Faulkner et al., 2020; IJzerman et al., 2018).
 
+
+
 ### Middle and late stages of the pandemic
 
 
-
-
-
-## 研发药物
-
-### 筛选化合物
-
-为人工智能系统提供了一个庞大的肽分子数据库，系统对其进行分析以了解分子结构与其功能或特性之间的联系。然后，他们将新分子的理想特性列表插入其中，例如特定的抗菌功能和低毒性。研究人员说，该系统现在也可以用于寻找抗 COVID-19 分子。如果进一步的实验室、动物试验和最终的人体临床试验证实了它们的有效性，这种筛选可以帮助确定最终可能对人类有用的化合物。
-
-### 学习重用现有药物
-
-寻找[可以重新](https://www.nature.com/articles/s41467-021-21056-z)用于治疗 COVID-19 的现有药物。由于老年人患重病和死亡的风险更高，他们假设病毒在老年人中引发的基因表达与年轻人不同，因此确定需要哪些药物来影响感染引发的特定基因和蛋白质。研究人员发现 RIPK1 蛋白是 COVID-19 药物的一个有前途的靶标，并确定了三种作用于_RIPK1_基因表达的获批药物。如果进一步测试证实这些药物对人类对抗 COVID-19 有效，则这些药物可能对对抗 COVID-19 有用。
 
 ## 信任聊天机器人
 
