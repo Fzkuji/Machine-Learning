@@ -11,6 +11,10 @@
 
 纽约西奈山的研究人员[建立了一个人工智能系统](https://www.nature.com/articles/s41591-020-0931-3.pdf)，该系统可以使用一种算法来帮助诊断 COVID-19 患者，该算法经过 900 多次中国患者肺部计算机断层扫描 (CT) 扫描的训练。仅根据肺部扫描诊断疾病不一定准确，因为在疾病的早期阶段扫描可能看起来正常，而由 COVID-19 引起的肺部问题可能与其他疾病相似。当然，这就是 SARS-CoV-2 抗原快速诊断测试和 PCR 测试等 COVID-19 诊断测试如此有用的原因，也是临床医生采访患者并进行身体检查以汇总一系列信息以做出诊断的原因。
 
+Few studies have encountered changes in chest X-ray and CT images before the beginning of COVID-19 symptoms ^[1]([Chan et al., 2020](https://www.sciencedirect.com/science/article/pii/S0140673620301549)).
+
+Chest radiological imaging such as computed tomography (CT) and X-ray has played an important role in early diagnosis and treatment of the COVID19 pandemic (S. Yin et al., 2020; Zu et al., 2020).
+
 #### 通过咳嗽诊断感染
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来。
@@ -56,3 +60,5 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 [今年法国](https://psyarxiv.com/eb2gt/)的一项研究表明，与聊天机器人互动可以显着缓解疫苗犹豫，让人们更倾向于对疫苗和接种疫苗产生积极的看法。研究人员表明，在与聊天机器人互动之前，338 名参与者中有 145 人对 COVID-19 疫苗持积极态度。在与聊天机器人交谈后，人数增加了 37%，达到 199 人。同样，在与聊天机器人互动之前，338 名参与者中有 123 人表示他们不想要 COVID-19 疫苗；在他们聊天之后，这个数字下降了 20% 至 99。
 
 
+[^1]: https://www.sciencedirect.com/science/article/pii/S0140673620301549
+[^2]: 
