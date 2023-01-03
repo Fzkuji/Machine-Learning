@@ -3,7 +3,7 @@
 
 ### Before Infection
 
-#### Identify Symptoms
+######## Identify Symptoms
 
 It is found that China has developed AI-driven sensors that can quickly recognise individuals with a fever, even in crowds. The sensing of COVID-19 patients can be detected by using AI-based technology in Florida through **facial thermal** scans (V. Kumar, 2020). 
 
