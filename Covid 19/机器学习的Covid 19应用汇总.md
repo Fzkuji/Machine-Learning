@@ -121,8 +121,9 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 [今年法国](https://psyarxiv.com/eb2gt/)的一项研究表明，与聊天机器人互动可以显着缓解疫苗犹豫，让人们更倾向于对疫苗和接种疫苗产生积极的看法。研究人员表明，在与聊天机器人互动之前，338 名参与者中有 145 人对 COVID-19 疫苗持积极态度。在与聊天机器人交谈后，人数增加了 37%，达到 199 人。同样，在与聊天机器人互动之前，338 名参与者中有 123 人表示他们不想要 COVID-19 疫苗；在他们聊天之后，这个数字下降了 20% 至 99。
 
 
-
-
+## References
+[]()
+![[Significant Applications of Machine Learning for COVID-19 Pandemic.pdf]]
 
 
 [^1]: Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." _The lancet_ 395.10223 (2020): 514-523.
