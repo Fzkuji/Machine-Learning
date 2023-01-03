@@ -19,7 +19,9 @@ The designed AI-enabled smartphones found the severity of pneumonia and could al
 
 ### After Infection
 
-#### 通过CT诊断肺炎
+#### Infection Detection
+
+##### 通过CT诊断肺炎
 
 纽约西奈山的研究人员[建立了一个人工智能系统](https://www.nature.com/articles/s41591-020-0931-3.pdf)，该系统可以使用一种算法来帮助诊断 COVID-19 患者，该算法经过 900 多次中国患者肺部计算机断层扫描 (CT) 扫描的训练。仅根据肺部扫描诊断疾病不一定准确，因为在疾病的早期阶段扫描可能看起来正常，而由 COVID-19 引起的肺部问题可能与其他疾病相似。当然，这就是 SARS-CoV-2 抗原快速诊断测试和 PCR 测试等 COVID-19 诊断测试如此有用的原因，也是临床医生采访患者并进行身体检查以汇总一系列信息以做出诊断的原因。
 
@@ -29,15 +31,22 @@ Chest radiological imaging such as computed tomography (CT) and X-ray has played
 
 It is found that as advised by the developed automatic models can be used to diagnose other chest-related diseases, including tuberculosis and pneumonia (Ozturk et al., 2020). However, there is a limitation of the developed model that it is **not robust** and took fewer COVID-19 X-ray images.
 
-#### 通过咳嗽诊断感染
+##### 通过咳嗽诊断感染
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来。
 
-#### Proper Health Monitoring
+#### Health Monitoring
 
 Machine learning- artificial intelligence has been rolled out to monitor hospitalised patients affected by COVID-19 (McCall, 2020). 
 
-AI has been used to monitor symptoms in the COVID-19 patients; it also provides decision support for CT and X-ray scans, and also help to automate hospital operations. Connected thermometers and bracelet-like device are used to monitor patients. The intelligent robots are designed in such a way that they are capable of delivering food, medicine, etc. to the patients. South Korea government developed an app allowing people to self-report symptoms of pandemic disease COVID-19 (Wittbold et al., 2020). The importance of lung imaging in tracking and treating coronavirus patients is studied by (Hunter, 2020).
+AI has been used to monitor symptoms in the COVID-19 patients; it also provides decision support for CT and X-ray scans, and also help to automate hospital operations. Connected thermometers and bracelet-like device are used to monitor patients. 
+
+The intelligent robots are designed in such a way that they are capable of delivering food, medicine, etc. to the patients. South Korea government developed an app allowing people to self-report symptoms of pandemic disease COVID-19 (Wittbold et al., 2020). The importance of lung imaging in tracking and treating coronavirus patients is studied by (Hunter, 2020).
+
+#### Virtual Treatment
+
+Various machines and deep learning methods can be used for virtual treatment or virtual reality therapy (Bălan et al., 2020; Opriş et al., 2012). It has significantly emerged in the present decades and allows the design of immersive virtual worlds that provide advancements in a safe and controlled manner (Yuan & Yang, 2019). Machine learning-guided virtual reality simulators can guide the neurosurgeons before they step into the operating room (Anderton, 2019). In the present situation, like the widespread COVID-19 pandemic, in which virus is spreading rapidly, getting more accurate scores quickly informing the problems to accelerating the development of drugs or vaccines (Schmit, 2020).
+
 
 ### After Turning Negative
 
