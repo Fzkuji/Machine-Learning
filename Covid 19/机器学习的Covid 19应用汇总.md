@@ -31,7 +31,7 @@ The primary aim is to improve the diagnostic speed and accuracy of the novel cor
 
 The secondary aim is to identify the most susceptible people based on personalised genetic and physiological characteristics (Alimadadi et al., 2020). Personalised treatment strategies can mostly take benefit from precise classifications of the population based on categorised COVID-19 susceptibility.
 
-The hospitals also required advanced machine learning methods to analysepersonalised therapeutic effects to evaluate new COVID-19 patients. This enhancement in the hospitals will increase the better care of each patient and also improve the local hospital arrangement. It is found that with the precise treatment monitoring based on the new “liquid” detection technologies, patients can be identified quickly with increasing affordability (Faulkner et al., 2020; IJzerman et al., 2018).
+The hospitals also required advanced machine learning methods to analyse personalised therapeutic effects to evaluate new COVID-19 patients. This enhancement in the hospitals will increase the better care of each patient and also improve the local hospital arrangement. It is found that with the precise treatment monitoring based on the new “liquid” detection technologies, patients can be identified quickly with increasing affordability (Faulkner et al., 2020; IJzerman et al., 2018).
 
 
 ### After Turning Negative
@@ -52,6 +52,20 @@ When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instea
 
 
 ## For Society
+
+### Early days of the pandemic
+
+#### Precise and Personalised Treatment
+
+The primary aim is to improve the diagnostic speed and accuracy of the novel coronavirus (Kesharwani et al., 2020; Suman, Nandan, Haleem, et al., 2020a, 2020b; Suman, Javaid, Nandan, et al., 2020).
+
+### COVID-19 pandemic
+
+#### Precise and Personalised Treatment
+
+The secondary aim is to identify the most susceptible people based on personalised genetic and physiological characteristics (Alimadadi et al., 2020). Personalised treatment strategies can mostly take benefit from precise classifications of the population based on categorised COVID-19 susceptibility.
+
+### Middle and late stages of the pandemic
 
 
 
