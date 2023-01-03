@@ -38,7 +38,7 @@ We studied brain tissue from patients who had died from COVID-19 at home. COVID-
 When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instead, we found the brains had [extensive injury to the blood vessels](https://www.nih.gov/news-events/news-releases/nih-study-uncovers-blood-vessel-damage-inflammation-covid-19-patients-brains-no-infection). We saw inflammatory cells — a kind of immune cell — around the blood vessels in the brain. Since these patients were functional until the time of death, we reasoned that if they had survived, they may have developed long-term neurological symptoms. It’s possible that long COVID might be similar.
 
 
-For Society
+For Society [ad](obsidian://advanced-uri?filepath=Home%20Index%2Ftoday)
 
 
 

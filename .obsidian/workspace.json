@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+无监督学习/Diffusion Models/Diffusion漫谈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d92da49bf7c6dd64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Covid 19/机器学习的Covid 19应用汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,8 +147,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d92da49bf7c6dd64",
+  "active": "77bc9914ee9480ba",
   "lastOpenFiles": [
+    "Home Index/today.md",
+    "Covid 19/机器学习的Covid 19应用汇总.md",
     "+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/Diffusion Models/What are Diffusion Models.md",
@@ -169,8 +158,6 @@
     "+无监督学习/From Autoencoder to Beta-VAE.md",
     "+无监督学习/From GAN to WGAN.md",
     "Obsidian - Embed A Website With Iframe.md",
-    "变分法/变分法学习记录.md",
-    "计算机视觉/光线追踪/Ray Tracing The Rest of Your Life.md",
-    "计算机视觉/光线追踪/Ray Tracing The Next Week.md"
+    "变分法/变分法学习记录.md"
   ]
 }
