@@ -120,29 +120,27 @@
             }
           },
           {
-            "id": "12dea5480944d1e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Covid 19/机器学习的Covid 19应用汇总.md"
-              }
-            }
-          },
-          {
             "id": "63d7279ef7008e51",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "34bdc78831e8ae82",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +153,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12dea5480944d1e1",
+  "active": "801e23be9e769c07",
   "lastOpenFiles": [
     "Obsidian - Embed A Website With Iframe.md",
     "Covid 19/机器学习的Covid 19应用汇总.md",

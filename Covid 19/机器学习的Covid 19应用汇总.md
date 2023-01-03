@@ -3,7 +3,7 @@
 
 ### Before Infection
 
-
+Machine learning-artificial intelligence (AI) is found as an emerging tool which shows their potential to fight against novel coronavirus disease. The existing technology with NLP, computer visions, etc. enables the computers to leverage big data-enabled models for pattern recognition, interpretation, and prediction. It is observed that the current pandemic disease COVID-19 is spreading worldwide quickly, so there is a strong need to explore and unzip the AI to cure or diagnose the infected patients by COVID-19. It is found that China has developed AI-driven sensors that can quickly recognise  with a fever, even in crowds. The sensing of COVID-19 patients can be detected by using AI-based technology in Florida through facial thermal scans (V. Kumar, 2020). AI-based an app, ‘COVID voice detector’ used to detect the infection in the human voice. Augmented reality and virtual reality technology provided the virtual environment to the patients to engage with medical professionals.
 
 ### After Infection
 
