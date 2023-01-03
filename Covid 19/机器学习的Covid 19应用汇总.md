@@ -45,7 +45,14 @@ The intelligent robots are designed in such a way that they are capable of deliv
 
 #### Virtual Treatment
 
-Various machines and deep learning methods can be used for virtual treatment or virtual reality therapy (Bălan et al., 2020; Opriş et al., 2012). It has significantly emerged in the present decades and allows the design of immersive virtual worlds that provide advancements in a safe and controlled manner (Yuan & Yang, 2019). Machine learning-guided virtual reality simulators can guide the neurosurgeons before they step into the operating room (Anderton, 2019). In the present situation, like the widespread COVID-19 pandemic, in which virus is spreading rapidly, getting more accurate scores quickly informing the problems to accelerating the development of drugs or vaccines (Schmit, 2020).
+Various machines and deep learning methods can be used for virtual treatment or virtual reality therapy (Bălan et al., 2020; Opriş et al., 2012). It has significantly emerged in the present decades and allows the design of immersive virtual worlds that provide advancements in a safe and controlled manner (Yuan & Yang, 2019). Machine learning-guided virtual reality simulators can guide the neurosurgeons before they step into the operating room (Anderton, 2019). In the present situation, like the widespread COVID-19 pandemic, in which virus is spreading rapidly, getting more accurate scores quickly informing the problems to accelerating the development of drugs or vaccines (Schmit, 2020). Indian government using instant messaging platforms, to provide virtual health care services (Webster, 2020). Virtual robots are used to deliver medicine and food to COVID-19 patients so that the physical contact between the doctors and the patients can be avoided (V. Kumar, 2020). 
+
+#### Prediction of future symptoms
+
+Machine learning methods such as deep neural network and long-short term memory learning methods are used to predict the symptoms and spread of infectious diseases such as chickenpox, scarlet fever, and malaria (Chae et al., 2018). Industry 4.0 technologies are very useful in fighting against Coronavirus (Javaid et al., 2020).
+
+Predict the symptoms of future diseases such as genetic disorders. This prediction is made by observing the facial expressions or features, predict the risk of heart attack by observing the patterns of blood vessels on the retina at the back of the eye, used to monitor a patient's posture, breathing and even sleep for early signs of illness, etc. (Kaminsky, 2019).
+by collecting data from the clinical reports, doctor's notes, and various wearable body sensors (S. Wang et al., 2016).
 
 
 ### After Turning Negative
@@ -69,6 +76,12 @@ When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instea
 
 ### Early days of the pandemic
 
+#### Patient screening
+
+
+
+### COVID-19 pandemic
+
 #### Precise and Personalised Treatment
 
 The primary aim is to improve the diagnostic speed and accuracy of the novel coronavirus (Kesharwani et al., 2020; Suman, Nandan, Haleem, et al., 2020a, 2020b; Suman, Javaid, Nandan, et al., 2020).
@@ -77,12 +90,8 @@ The secondary aim is to identify the most susceptible people based on personalis
 
 The tertiary aim is to analyse personalised therapeutic effects to evaluate new COVID-19 patients. This enhancement in the hospitals will increase the better care of each patient and also improve the local hospital arrangement. It is found that with the precise treatment monitoring based on the new “liquid” detection technologies, patients can be identified quickly with increasing affordability (Faulkner et al., 2020; IJzerman et al., 2018).
 
-### COVID-19 pandemic
-
-
 ### Middle and late stages of the pandemic
 
-#### Precise and Personalised Treatment
 
 
 
