@@ -11,9 +11,11 @@
 
 纽约西奈山的研究人员[建立了一个人工智能系统](https://www.nature.com/articles/s41591-020-0931-3.pdf)，该系统可以使用一种算法来帮助诊断 COVID-19 患者，该算法经过 900 多次中国患者肺部计算机断层扫描 (CT) 扫描的训练。仅根据肺部扫描诊断疾病不一定准确，因为在疾病的早期阶段扫描可能看起来正常，而由 COVID-19 引起的肺部问题可能与其他疾病相似。当然，这就是 SARS-CoV-2 抗原快速诊断测试和 PCR 测试等 COVID-19 诊断测试如此有用的原因，也是临床医生采访患者并进行身体检查以汇总一系列信息以做出诊断的原因。
 
-Few studies have encountered changes in chest X-ray and CT images before the beginning of COVID-19 symptoms ^[1]([Chan et al., 2020](https://www.sciencedirect.com/science/article/pii/S0140673620301549)).
+Few studies have encountered changes in chest X-ray and CT images before the beginning of COVID-19 symptoms [^1].
 
 Chest radiological imaging such as computed tomography (CT) and X-ray has played an important role in early diagnosis and treatment of the COVID19 pandemic (S. Yin et al., 2020; Zu et al., 2020).
+
+It is found that as advised by the developed automatic models can be used to diagnose other chest-related diseases, including tuberculosis and pneumonia (Ozturk et al., 2020). However, there is a limitation of the developed model that it is **not robust** and took fewer COVID-19 X-ray images.
 
 #### 通过咳嗽诊断感染
 
@@ -60,5 +62,5 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 [今年法国](https://psyarxiv.com/eb2gt/)的一项研究表明，与聊天机器人互动可以显着缓解疫苗犹豫，让人们更倾向于对疫苗和接种疫苗产生积极的看法。研究人员表明，在与聊天机器人互动之前，338 名参与者中有 145 人对 COVID-19 疫苗持积极态度。在与聊天机器人交谈后，人数增加了 37%，达到 199 人。同样，在与聊天机器人互动之前，338 名参与者中有 123 人表示他们不想要 COVID-19 疫苗；在他们聊天之后，这个数字下降了 20% 至 99。
 
 
-[^1]: https://www.sciencedirect.com/science/article/pii/S0140673620301549
+[^1]: Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." _The lancet_ 395.10223 (2020): 514-523.
 [^2]: 
