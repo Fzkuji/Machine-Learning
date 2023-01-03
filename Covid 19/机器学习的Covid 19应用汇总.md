@@ -35,7 +35,9 @@ It is found that as advised by the developed automatic models can be used to dia
 
 #### Proper Health Monitoring
 
-Machine learning- artificial intelligence has been rolled out to monitor hospitalised patients affected by COVID-19 (McCall, 2020). AI has been used to monitor symptoms in the COVID-19 patients; it also provides decision support for CT and X-ray scans, and also help to automate hospital operations. China Hospital established a smart field hospital by using robots. Connected thermometers and bracelet-like device are used to monitor patients. The intelligent robots are designed in such a way that they are capable of delivering food, medicine, etc. to the patients. South Korea government developed an app allowing people to self-report symptoms of pandemic disease COVID-19 (Wittbold et al., 2020). The importance of lung imaging in tracking and treating coronavirus patients is studied by (Hunter, 2020).
+Machine learning- artificial intelligence has been rolled out to monitor hospitalised patients affected by COVID-19 (McCall, 2020). 
+
+AI has been used to monitor symptoms in the COVID-19 patients; it also provides decision support for CT and X-ray scans, and also help to automate hospital operations. Connected thermometers and bracelet-like device are used to monitor patients. The intelligent robots are designed in such a way that they are capable of delivering food, medicine, etc. to the patients. South Korea government developed an app allowing people to self-report symptoms of pandemic disease COVID-19 (Wittbold et al., 2020). The importance of lung imaging in tracking and treating coronavirus patients is studied by (Hunter, 2020).
 
 ### After Turning Negative
 
