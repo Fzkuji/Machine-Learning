@@ -1,4 +1,10 @@
 
+# For Indivisuals
+
+
+
+
+
 ## 医疗诊断
 
 ### 通过CT诊断肺炎
