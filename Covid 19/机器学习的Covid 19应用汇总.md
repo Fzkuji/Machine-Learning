@@ -17,8 +17,11 @@ Studies have shown that recovery from infection with SARS-CoV-2, the virus that 
 
 To better understand which patients develop Long COVID, the NIH Rapid Acceleration of Diagnostics (RADx) initiative has launched the [NIH Long COVID Computational Challenge (L3C)](https://www.challenge.gov/?challenge=l3c&tab=overview). Part of the RADx-Radical program, the challenge aims to support research that uses artificial intelligence and machine learning tools to identify COVID-19 patients with a high risk of developing Long COVID.
 
-#### long COVID with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/)
+#### Long COVID with [myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](https://www.cdc.gov/me-cfs/)
 
+We studied brain tissue from patients who had died from COVID-19 at home. COVID-19 came on so fast, they died suddenly. They didn’t go to the hospital. They didn’t spend time in ICU. When we looked at the lungs and other organs, we saw only a little damage — not enough to cause secondary damage to the brain. We knew that damage we saw in the brain was directly related to the infection.
+
+When we looked at the brains, to our surprise, we did not see SARS-CoV-2. Instead, we found the brains had [extensive injury to the blood vessels](https://www.nih.gov/news-events/news-releases/nih-study-uncovers-blood-vessel-damage-inflammation-covid-19-patients-brains-no-infection). We saw inflammatory cells — a kind of immune cell — around the blood vessels in the brain. Since these patients were functional until the time of death, we reasoned that if they had survived, they may have developed long-term neurological symptoms. It’s possible that long COVID might be similar.
 
 ## 研发药物
 
