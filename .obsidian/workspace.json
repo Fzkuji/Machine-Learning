@@ -120,6 +120,16 @@
             }
           },
           {
+            "id": "be1310090914f039",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Covid 19/机器学习的Covid 19应用汇总.md"
+              }
+            }
+          },
+          {
             "id": "63d7279ef7008e51",
             "type": "leaf",
             "state": {
@@ -136,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "801e23be9e769c07",
+  "active": "b56eb29ead77f649",
   "lastOpenFiles": [
-    "Obsidian - Embed A Website With Iframe.md",
+    "变分法/变分法学习记录.md",
     "Covid 19/机器学习的Covid 19应用汇总.md",
+    "Obsidian - Embed A Website With Iframe.md",
     "Home Index/today.md",
     "+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "+无监督学习/Diffusion Models/What are Diffusion Models.md",
     "+无监督学习/Importance Sampling.md",
     "+无监督学习/From Autoencoder to Beta-VAE.md",
-    "+无监督学习/From GAN to WGAN.md",
-    "变分法/变分法学习记录.md"
+    "+无监督学习/From GAN to WGAN.md"
   ]
 }

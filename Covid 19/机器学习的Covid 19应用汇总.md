@@ -3,7 +3,11 @@
 
 ### Before Infection
 
-Machine learning-artificial intelligence (AI) is found as an emerging tool which shows their potential to fight against novel coronavirus disease. The existing technology with NLP, computer visions, etc. enables the computers to leverage big data-enabled models for pattern recognition, interpretation, and prediction. It is observed that the current pandemic disease COVID-19 is spreading worldwide quickly, so there is a strong need to explore and unzip the AI to cure or diagnose the infected patients by COVID-19. It is found that China has developed AI-driven sensors that can quickly recognise  with a fever, even in crowds. The sensing of COVID-19 patients can be detected by using AI-based technology in Florida through facial thermal scans (V. Kumar, 2020). AI-based an app, ‘COVID voice detector’ used to detect the infection in the human voice. Augmented reality and virtual reality technology provided the virtual environment to the patients to engage with medical professionals.
+The existing technology with NLP, computer visions, etc. enables the computers to leverage big data-enabled models for pattern recognition, interpretation, and prediction. It is observed that the current pandemic disease COVID-19 is spreading worldwide quickly, so there is a strong need to explore and unzip the AI to cure or diagnose the infected patients by COVID-19. 
+
+It is found that China has developed AI-driven sensors that can quickly recognise individuals with a fever, even in crowds. The sensing of COVID-19 patients can be detected by using AI-based technology in Florida through facial thermal scans (V. Kumar, 2020). 
+
+AI-based an app, ‘COVID voice detector’ used to detect the infection in the human voice. Augmented reality and virtual reality technology provided the virtual environment to the patients to engage with medical professionals.
 
 ### After Infection
 
@@ -20,6 +24,15 @@ It is found that as advised by the developed automatic models can be used to dia
 #### 通过咳嗽诊断感染
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来。
+
+#### Precise and Personalised Treatment
+
+The primary aim is to improve the diagnostic speed and accuracy of the novel coronavirus (Kesharwani et al., 2020; Suman, Nandan, Haleem, et al., 2020a, 2020b; Suman, Javaid, Nandan, et al., 2020).
+
+The secondary aim is to identify the most susceptible people based on personalised genetic and physiological characteristics (Alimadadi et al., 2020). Personalised treatment strategies can mostly take benefit from precise classifications of the population based on categorised COVID-19 susceptibility.
+
+The hospitals also required advanced machine learning methods to analysepersonalised therapeutic effects to evaluate new COVID-19 patients. This enhancement in the hospitals will increase the better care of each patient and also improve the local hospital arrangement. It is found that with the precise treatment monitoring based on the new “liquid” detection technologies, patients can be identified quickly with increasing affordability (Faulkner et al., 2020; IJzerman et al., 2018).
+
 
 ### After Turning Negative
 
