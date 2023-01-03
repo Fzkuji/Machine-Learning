@@ -1,9 +1,7 @@
 
 # For Indivisuals
 
-
-
-
+## Before Infection
 
 ## 医疗诊断
 
