@@ -19,7 +19,7 @@ The designed AI-enabled smartphones found the severity of pneumonia and could al
 
 ### After Infection
 
-#### Infection Detection
+#### Infection Diagnosis
 
 ##### 通过CT诊断肺炎
 
@@ -34,6 +34,10 @@ It is found that as advised by the developed automatic models can be used to dia
 ##### 通过咳嗽诊断感染
 
 [麻省理工学院研究](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)人员开发的另一个人工智能系统[](https://www.researchgate.net/publication/344930557_COVID-19_Artificial_Intelligence_Diagnosis_using_only_Cough_Recordings)声称能够根据某人的咳嗽声检测出 COVID-19。大流行迅速蔓延的原因之一是许多 COVID-19 患者可能没有症状。他们的感染不会引起注意，因为他们不太可能寻求检测，并且会在不知不觉中将其传染给其他人。但是麻省理工学院的团队开发了一个程序，使用来自数万次咳嗽的音频输入和来自咳嗽人群的自我报告的临床信息，试图检测有症状的 COVID-19 患者咳嗽方式与其他人咳嗽方式的差异谁没有这种疾病，即使这对医生来说听起来是一样的。如果研究人员能够证明 AI 系统擅长在具有一系列确诊病例的代表性个体样本中将 COVID-19 与其他呼吸道感染区分开来。
+
+##### Based on Symptoms
+
+
 
 #### Health Monitoring
 
@@ -128,4 +132,4 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 
 
 [^1]: Chan, Jasper Fuk-Woo, et al. "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster." _The lancet_ 395.10223 (2020): 514-523.
-[^2]: 
+[^2]: Zoabi, Yazeed, Shira Deri-Rozov, and Noam Shomron. "Machine learning-based prediction of COVID-19 diagnosis based on symptoms." _npj digital medicine_ 4.1 (2021): 1-5.
