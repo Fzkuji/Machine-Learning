@@ -127,7 +127,7 @@ AI 聊天机器人[已由](https://www.gavi.org/vaccineswork/are-chatbots-better
 
 ## References
 
- - [综述Significant Applications of Machine Learning for COVID-19 Pandemic](obsidian://open?vault=Machine%20Learning&file=Covid%2019%2FSignificant%20Applications%20of%20Machine%20Learning%20for%20COVID-19%20Pandemic.pdf)
+ - [综述Significant Applications of Machine Learning for COVID-19 Pandemic](obsidian://open?vault=Machine%20Learning&file=Covid%2019%2FResources%2FSignificant%20Applications%20of%20Machine%20Learning%20for%20COVID-19%20Pandemic.pdf)
  - 
 
 

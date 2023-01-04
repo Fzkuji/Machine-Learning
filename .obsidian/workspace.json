@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "480056a45a46b438",
+        "id": "46d4fbbba5edc19a",
         "type": "tabs",
         "children": [
           {
-            "id": "467bd5d5fdf0c53c",
+            "id": "aaec97f730d24438",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16354bc477858585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Covid 19/机器学习的Covid 19应用汇总.md",
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Covid 19/机器学习的Covid 19应用汇总.md",
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Covid 19/机器学习的Covid 19应用汇总.md"
+                "file": "+无监督学习/Diffusion Models/研究提案.md"
               }
             }
           },
@@ -163,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "467bd5d5fdf0c53c",
+  "active": "16354bc477858585",
   "lastOpenFiles": [
-    "Covid 19/Significant Applications of Machine Learning for COVID-19 Pandemic.pdf",
     "Covid 19/机器学习的Covid 19应用汇总.md",
+    "Covid 19/Resources/Significant Applications of Machine Learning for COVID-19 Pandemic.pdf",
     "Significant.md",
     "变分法/变分法学习记录.md",
     "Obsidian - Embed A Website With Iframe.md",
