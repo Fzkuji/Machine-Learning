@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "++论文笔记/+Paper Template.md",
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "++论文笔记/+Paper Template.md",
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "++论文笔记/+Paper Template.md",
+                "file": "+无监督学习/Diffusion Models/研究提案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "++论文笔记/+Paper Template.md"
+                "file": "+无监督学习/Diffusion Models/研究提案.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "16354bc477858585",
   "lastOpenFiles": [
+    "++论文笔记/+Paper Template.md",
     "+Survey vs Review.md",
     "Obsidian - Embed A Website With Iframe.md",
     "README.md",
@@ -186,7 +187,6 @@
     "+无监督学习/Diffusion Models/研究提案.md",
     "Covid 19/机器学习的Covid 19应用汇总.md",
     "Covid 19/Resources/Significant Applications of Machine Learning for COVID-19 Pandemic.pdf",
-    "Significant.md",
-    "变分法/变分法学习记录.md"
+    "Significant.md"
   ]
 }
