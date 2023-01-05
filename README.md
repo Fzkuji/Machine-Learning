@@ -1,2 +1,5 @@
-# Machine-Learning
-Notes for Machine learning
+# [Research-Records](https://github.com/Fzkuji/Research-Records)
+
+Notes for Some Research
+
+
