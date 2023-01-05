@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Theoretical Study/+无监督学习/Diffusion Models/研究提案.md",
+                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/研究提案.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +199,7 @@
     "+Survey vs Review.md",
     "README.md",
     "Untitled.md",
-    "Machine Learning/Theoretical Study/+无监督学习/Diffusion Models/研究提案.md",
-    "Machine Learning/Theoretical Study/++论文笔记/+Paper Template.md"
+    "Machine Learning/Approaches/+无监督学习/Diffusion Models/研究提案.md",
+    "Machine Learning/Approaches/++论文笔记/+Paper Template.md"
   ]
 }
