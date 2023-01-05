@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Learning Notes/+无监督学习/Diffusion Models/研究提案.md",
+                "file": "Machine Learning/Theoretical Study/+无监督学习/Diffusion Models/研究提案.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8f89e5d3c993063",
+  "active": "da9a2db56d8b66ff",
   "lastOpenFiles": [
     "Machine Learning/Untitled.md",
     "Mathematics/变分法/变分法学习记录.md",
@@ -199,7 +199,7 @@
     "+Survey vs Review.md",
     "README.md",
     "Untitled.md",
-    "Machine Learning/Learning Notes/+无监督学习/Diffusion Models/研究提案.md",
-    "Machine Learning/Learning Notes/++论文笔记/+Paper Template.md"
+    "Machine Learning/Theoretical Study/+无监督学习/Diffusion Models/研究提案.md",
+    "Machine Learning/Theoretical Study/++论文笔记/+Paper Template.md"
   ]
 }
