@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "1978d412e3b1dcb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian - Embed A Website With Iframe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "16354bc477858585",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
+                "file": "Obsidian - Embed A Website With Iframe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
+                "file": "Obsidian - Embed A Website With Iframe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md"
+                "file": "Obsidian - Embed A Website With Iframe.md"
               }
             }
           },
@@ -197,16 +209,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8f89e5d3c993063",
+  "active": "1978d412e3b1dcb7",
   "lastOpenFiles": [
+    "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
     "Miscellaneous/代码规范.md",
     "Machine Learning/Untitled.md",
     "Mathematics/变分法/变分法学习记录.md",
     "Mathematics/Untitled.md",
-    "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
     "+Survey vs Review.md",
     "README.md",
-    "Untitled.md",
+    "Obsidian - Embed A Website With Iframe.md",
     "Machine Learning/Approaches/+无监督学习/Diffusion Models/研究提案.md",
     "Machine Learning/Approaches/++论文笔记/+Paper Template.md"
   ]
