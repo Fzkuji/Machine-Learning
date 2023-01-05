@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5cf66a8c925470f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+无监督学习/Diffusion Models/研究提案.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+无监督学习/Diffusion Models/研究提案.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+无监督学习/Diffusion Models/研究提案.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,15 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16354bc477858585",
+  "active": "d5cf66a8c925470f",
   "lastOpenFiles": [
+    "+无监督学习/Diffusion Models/研究提案.md",
     "++论文笔记/+Paper Template.md",
     "+Survey vs Review.md",
     "Obsidian - Embed A Website With Iframe.md",
     "README.md",
     "代码规范.md",
     "目标逻辑.md",
-    "+无监督学习/Diffusion Models/研究提案.md",
     "Covid 19/机器学习的Covid 19应用汇总.md",
     "Covid 19/Resources/Significant Applications of Machine Learning for COVID-19 Pandemic.pdf",
     "Significant.md"
