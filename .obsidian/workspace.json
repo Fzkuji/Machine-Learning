@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/代码规范.md",
+                "file": "Miscellaneous/My Python Coding Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/代码规范.md",
+                "file": "Miscellaneous/My Python Coding Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/代码规范.md",
+                "file": "Miscellaneous/My Python Coding Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/代码规范.md",
+                "file": "Miscellaneous/My Python Coding Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/代码规范.md"
+                "file": "Miscellaneous/My Python Coding Standards.md"
               }
             }
           },
@@ -221,12 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33a2559f75dc55e6",
+  "active": "da9a2db56d8b66ff",
   "lastOpenFiles": [
     "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
     "Untitled.md",
     "Obsidian - Embed A Website With Iframe.md",
-    "Miscellaneous/代码规范.md",
+    "Miscellaneous/My Python Coding Standards.md",
     "Machine Learning/Untitled.md",
     "Mathematics/变分法/变分法学习记录.md",
     "Mathematics/Untitled.md",
