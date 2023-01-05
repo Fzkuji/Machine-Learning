@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md",
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian - Embed A Website With Iframe.md"
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "1978d412e3b1dcb7",
   "lastOpenFiles": [
+    "Obsidian - Embed A Website With Iframe.md",
     "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
     "Miscellaneous/代码规范.md",
     "Machine Learning/Untitled.md",
@@ -218,7 +219,6 @@
     "Mathematics/Untitled.md",
     "+Survey vs Review.md",
     "README.md",
-    "Obsidian - Embed A Website With Iframe.md",
     "Machine Learning/Approaches/+无监督学习/Diffusion Models/研究提案.md",
     "Machine Learning/Approaches/++论文笔记/+Paper Template.md"
   ]
