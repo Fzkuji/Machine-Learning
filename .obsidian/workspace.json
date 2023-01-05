@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码规范.md",
+                "file": "Miscellaneous/代码规范.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,12 @@
             "id": "c8f89e5d3c993063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Miscellaneous/Obsidian - Embed A Website With Iframe.md"
+              }
             }
           },
           {
@@ -189,13 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da9a2db56d8b66ff",
+  "active": "c8f89e5d3c993063",
   "lastOpenFiles": [
+    "Miscellaneous/代码规范.md",
     "Machine Learning/Untitled.md",
     "Mathematics/变分法/变分法学习记录.md",
     "Mathematics/Untitled.md",
-    "代码规范.md",
-    "Obsidian - Embed A Website With Iframe.md",
+    "Miscellaneous/Obsidian - Embed A Website With Iframe.md",
     "+Survey vs Review.md",
     "README.md",
     "Untitled.md",
