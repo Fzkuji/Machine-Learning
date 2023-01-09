@@ -8,7 +8,8 @@ DDPM的流程：
 $$\boldsymbol{x} = \boldsymbol{x}_0 \rightleftharpoons \boldsymbol{x}_1 \rightleftharpoons \boldsymbol{x}_2 \rightleftharpoons \cdots \rightleftharpoons \boldsymbol{x}_{T-1} \rightleftharpoons \boldsymbol{x}_T = \boldsymbol{z}$$
 求解目标：
 $$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) = \frac{p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})p(\boldsymbol{x}_{t-1})}{p(\boldsymbol{x}_t)}$$
-但是其中只有$p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})$
+但是其中只有$p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})$是已知的，因此DDPM退而求其次，在给定$\boldsymbol{x}_0$的条件下使用贝叶斯定理：
+$$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t, \boldsymbol{x}_0) = \frac{p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_0)}{p(\boldsymbol{x}_t|\boldsymbol{x}_0)}$$
 
 ### [从DDPM到DDIM](https://kexue.fm/archives/9181)
 
