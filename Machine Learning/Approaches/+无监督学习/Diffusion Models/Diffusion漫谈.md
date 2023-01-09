@@ -8,7 +8,7 @@ DDPM的流程：
 $$\boldsymbol{x} = \boldsymbol{x}_0 \rightleftharpoons \boldsymbol{x}_1 \rightleftharpoons \boldsymbol{x}_2 \rightleftharpoons \cdots \rightleftharpoons \boldsymbol{x}_{T-1} \rightleftharpoons \boldsymbol{x}_T = \boldsymbol{z}$$
 求解目标：
 $$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) = \frac{p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})p(\boldsymbol{x}_{t-1})}{p(\boldsymbol{x}_t)}$$
-
+但是其中只有$p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})$
 
 ### [从DDPM到DDIM](https://kexue.fm/archives/9181)
 
