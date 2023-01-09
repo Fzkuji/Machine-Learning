@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion漫谈.md",
+                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/What are Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion漫谈.md",
+                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/What are Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion漫谈.md",
+                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/What are Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion漫谈.md"
+                "file": "Machine Learning/Approaches/+无监督学习/Diffusion Models/What are Diffusion Models.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "f93ee062c1d8d5a3",
   "lastOpenFiles": [
+    "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion漫谈.md",
     "Machine Learning/Approaches/+无监督学习/Diffusion Models/Diffusion文章整理.md",
     "Machine Learning/Approaches/+无监督学习/Diffusion Models/研究提案.md",
     "Untitled.md",
@@ -174,7 +175,6 @@
     "Miscellaneous/My Machine Learning Goal Logic.md",
     "Miscellaneous/My Python Coding Standards.md",
     "Obsidian - Embed A Website With Iframe.md",
-    "Machine Learning/Untitled.md",
-    "Mathematics/变分法/变分法学习记录.md"
+    "Machine Learning/Untitled.md"
   ]
 }
