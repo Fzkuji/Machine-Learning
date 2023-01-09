@@ -26,6 +26,21 @@ $$
 & p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_0) = \sqrt{{\alpha}_{t-1}} \mathbf{x}_0 + \sqrt{1-{\alpha}_{t-1}} z \sim \mathcal{N} \left ( \sqrt{{\alpha}_{t-1}}, 1-{\alpha}_{t-1} \right )
 \end{align}
 $$
+对于，我们知道它是服从正态分布的，因此，根据正态分布的公式：
+$$
+因此相对应的，可以得到$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t, \boldsymbol{x}_0)$的方差$\tilde{\beta}_t$和均值$\tilde{\boldsymbol{\mu}}_t (\mathbf{x}_t, \mathbf{x}_0)$：
+$$
+\begin{aligned}
+\tilde{\beta}_t 
+&= 1/(\frac{\alpha_t}{\beta_t} + \frac{1}{1 - \bar{\alpha}_{t-1}}) 
+= 1/(\frac{\alpha_t - \bar{\alpha}_t + \beta_t}{\beta_t(1 - \bar{\alpha}_{t-1})})
+= \color{green}{\frac{1 - \bar{\alpha}_{t-1}}{1 - \bar{\alpha}_t} \cdot \beta_t} \\
+\tilde{\boldsymbol{\mu}}_t (\mathbf{x}_t, \mathbf{x}_0)
+&= (\frac{\sqrt{\alpha_t}}{\beta_t} \mathbf{x}_t + \frac{\sqrt{\bar{\alpha}_{t-1} }}{1 - \bar{\alpha}_{t-1}} \mathbf{x}_0)/(\frac{\alpha_t}{\beta_t} + \frac{1}{1 - \bar{\alpha}_{t-1}}) \\
+&= (\frac{\sqrt{\alpha_t}}{\beta_t} \mathbf{x}_t + \frac{\sqrt{\bar{\alpha}_{t-1} }}{1 - \bar{\alpha}_{t-1}} \mathbf{x}_0) \color{green}{\frac{1 - \bar{\alpha}_{t-1}}{1 - \bar{\alpha}_t} \cdot \beta_t} \\
+&= \frac{\sqrt{\alpha_t}(1 - \bar{\alpha}_{t-1})}{1 - \bar{\alpha}_t} \mathbf{x}_t + \frac{\sqrt{\bar{\alpha}_{t-1}}\beta_t}{1 - \bar{\alpha}_t} \mathbf{x}_0\\
+\end{aligned}
+$$
 
 
 ### [从DDPM到DDIM](https://kexue.fm/archives/9181)
