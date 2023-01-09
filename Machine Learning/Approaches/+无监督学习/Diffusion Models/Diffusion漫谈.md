@@ -28,7 +28,9 @@ $$
 $$
 对于，我们知道它是服从正态分布的，因此，根据正态分布的公式：
 $$
-因此相对应的，可以得到$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t, \boldsymbol{x}_0)$的方差$\tilde{\beta}_t$和均值$\tilde{\boldsymbol{\mu}}_t (\mathbf{x}_t, \mathbf{x}_0)$：
+\mathrm{exp} \big ( -\frac{(x-\mu )^2}{2\sigma^2} \big ) = \mathrm{exp} \Big ( - \frac{1}{2} \big ( \frac{1}{\sigma ^2} x^2 - \frac{2\mu}{\sigma^2} x + \frac{\mu^2}{\sigma^2} \big )  \Big  )
+$$
+其中$\sigma^2$是方差，$\mu$是均值。因此相对应的，可以得到$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t, \boldsymbol{x}_0)$的方差$\tilde{\beta}_t$和均值$\tilde{\boldsymbol{\mu}}_t (\mathbf{x}_t, \mathbf{x}_0)$：
 $$
 \begin{aligned}
 \tilde{\beta}_t 
