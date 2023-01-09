@@ -20,8 +20,13 @@ p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t, \boldsymbol{x}_0)
 $$
 其中：
 $$
-p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_0) = 
+\begin{align}
+& p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_0) = \sqrt{\bar{\alpha}_{t-1}} \mathbf{x}_0 + \sqrt{1-\bar{\alpha}_{t-1}} z \sim \mathcal{N} \left ( \sqrt{\bar{\alpha}_{t-1}}, 1-\bar{\alpha}_{t-1} \right ) \\
+& p(\boldsymbol{x}_t|\boldsymbol{x}_0) = \sqrt{\bar{\alpha}_t} \mathbf{x}_0 + \sqrt{1-\bar{\alpha}_t} z \sim \mathcal{N} \left ( \sqrt{\bar{\alpha}_t}, 1-\bar{\alpha}_t \right ) \\
+& p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_0) = \sqrt{{\alpha}_{t-1}} \mathbf{x}_0 + \sqrt{1-{\alpha}_{t-1}} z \sim \mathcal{N} \left ( \sqrt{{\alpha}_{t-1}}, 1-{\alpha}_{t-1} \right )
+\end{align}
 $$
+
 
 ### [从DDPM到DDIM](https://kexue.fm/archives/9181)
 
