@@ -2,6 +2,14 @@
 
 可以看这一整个系列，介绍了很多diffusion的概念
 
+### [DDPM = 贝叶斯 + 去噪](https://kexue.fm/archives/9164)
+
+DDPM的流程：
+$$\boldsymbol{x} = \boldsymbol{x}_0 \rightleftharpoons \boldsymbol{x}_1 \rightleftharpoons \boldsymbol{x}_2 \rightleftharpoons \cdots \rightleftharpoons \boldsymbol{x}_{T-1} \rightleftharpoons \boldsymbol{x}_T = \boldsymbol{z}$$
+求解目标：
+$$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) = \frac{p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})p(\boldsymbol{x}_{t-1})}{p(\boldsymbol{x}_t)}$$
+
+
 ### [从DDPM到DDIM](https://kexue.fm/archives/9181)
 
 DDPM是最基本的扩散模型。DDPM在生成（或者叫采样）的过程中仍然会加入随机值，因此即使有相同的输入也会有不同的输出。但是DDIM进行了简化，将随即部分省略，结果就是相同的输入模型会给出相同的输出。
