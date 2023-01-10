@@ -4,8 +4,9 @@
 
 ### [DDPM = 贝叶斯 + 去噪](https://kexue.fm/archives/9164)
 
-DDPM的流程：
+DDPM的总流程如下：
 $$\boldsymbol{x} = \boldsymbol{x}_0 \rightleftharpoons \boldsymbol{x}_1 \rightleftharpoons \boldsymbol{x}_2 \rightleftharpoons \cdots \rightleftharpoons \boldsymbol{x}_{T-1} \rightleftharpoons \boldsymbol{x}_T = \boldsymbol{z}$$
+单步前向加噪公式如下：
 $$
 \begin{aligned}
 \mathbf{x}_t 
@@ -16,7 +17,9 @@ $$
 q(\mathbf{x}_t \vert \mathbf{x}_0) &= \mathcal{N}(\mathbf{x}_t; \sqrt{\bar{\alpha}_t} \mathbf{x}_0, (1 - \bar{\alpha}_t)\mathbf{I})
 \end{aligned}
 $$
-求解目标：
+其中$\alpha_t = 1 - \beta_t$，$\bar{\alpha}_t = \prod_{i=1}^t \alpha_i$
+
+求解目标为单步反向降噪：
 $$p(\boldsymbol{x}_{t-1}|\boldsymbol{x}_t) = \frac{p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})p(\boldsymbol{x}_{t-1})}{p(\boldsymbol{x}_t)}$$
 但是其中只有$p(\boldsymbol{x}_t|\boldsymbol{x}_{t-1})$是已知的，因此DDPM退而求其次，在给定$\boldsymbol{x}_0$的条件下使用贝叶斯定理：
 $$
